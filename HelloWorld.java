@@ -33,3 +33,7 @@ public class developer11 {
 
   }
 }
+
+public class developer22 {
+  public static void main(String[] args) {
+    System.out.println("Hello developer2!");
